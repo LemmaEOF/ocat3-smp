@@ -1,0 +1,158 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".DS_Store"
+hash = "d9ae8ca3b9d9297fdc4ccfb9a2ea27dc8c66311cb298fdafddbc738b43c08dff"
+
+[[files]]
+file = ".gitignore.txt"
+hash = "3757a4a1e311c63b08214b76b6eb0142f77918ac6989a50505f2e3f5e7edc903"
+
+[[files]]
+file = ".packwizignore.txt"
+hash = "2d820d1531ba4e10a772d1a1daa6e164f97a013e747c70fd5008484215b72ef9"
+
+[[files]]
+file = "mods/arcanus.pw.toml"
+hash = "b57ace708efa3cd22081cdcadb9536be4e165eff3d19a8f5a7a37944433988c3"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/aurorasdecorations.pw.toml"
+hash = "84e6130e671eb8580ec0181e2a81f5722c0e5acad4143dac22753bff0a5e7f4b"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "9e44e050783e06ab8135679dd4339e1bd96955423c35711bf09c485edeba77cd"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "d461111e3da5e79b84cfaaa6303a3f48588192527b6b6b62816c4698f9f8701d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "c0c6e75c4632b7b451a2bf5cb99f9654bf3fc3bb6a2ad9df660f63321a9d9928"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "cc8e6e730c92b194d1fc56c51809a62be7c1719f601a002ac32e6f6fae12dcec"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+hash = "2dfcb2cfbd297d87bc7d11617712c903a49c225278b7cc2e024f112f33412a61"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "94e4884521c256740df7adbdaacb385a30262c0bc711e3af502dd42906a06f5d"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/origins-minus.pw.toml"
+hash = "768bd8a91ce0a8809059e0aa110cd0b45a8f4fafbfb0f933d14ed80c2cd703c8"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "f44c2e138b41270813fc1a1f1516ef44018f6ccfe83828deab77a196f746f5ae"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "2776f4939eaec939c86063aa7111a6d0382061b4d3a2c60a6b26fe3ac6695a78"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "f10f55a3d281a697f2d091c446aab21b67f327cc3cc55856c170ca258fbf7863"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "d0aeac99c91b19c01b3b854e4ea7f437d4a1034e02d86047d680f1e3ca866f16"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "1ed219ddda988f6c1e350aaf003919974cb229dab27e95b166872c55bf6b66ce"
+metafile = true
+
+[[files]]
+file = "mods/sparkweave.pw.toml"
+hash = "a50ffa391e27e4314e222789f320cc42397aff9d0c10473619e29cdf7ce49c89"
+metafile = true

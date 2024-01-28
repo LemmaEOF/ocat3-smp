@@ -1,0 +1,13 @@
+name = "OCAT3 SMP"
+author = "LemmaEOF"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "14fd67b2f19567b3802dd59e5da30f3ce5d97edf59c9fb6895a8a3f70cdcb536"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.23.1"
